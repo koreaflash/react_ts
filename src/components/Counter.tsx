@@ -33,7 +33,6 @@ class Counter extends React.Component<CounterProps, CounterStates>{
     render() {
         const { name } = this.props;
         const { count } = this.state;
-
         return (
             <React.Fragment>
                 <h1>{name} counter</h1>
