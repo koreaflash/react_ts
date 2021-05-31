@@ -2,6 +2,7 @@
   "name": "react_ts",
   "version": "1.0.0",
   "description": "1st 리액트_타입스트립트",
+  "homepage": ".",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
